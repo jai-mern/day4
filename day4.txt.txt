@@ -1,0 +1,10 @@
+function main(a,b){
+return a*b;
+}
+console.log(mul());
+    
+
+  function mul(a,b){
+return a*b;
+} 
+  console.log(mul(3,3)); output;9
